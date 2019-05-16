@@ -1,6 +1,6 @@
 class Dog
 end
 
-Pete = Dog.new
-Rin = Dog.new
-Darth = Dog.new
+fido = Dog.new
+snoppy = Dog.new
+lassie = Dog.new
