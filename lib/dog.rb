@@ -1,6 +1,6 @@
 class Dog
 end
 
-Dog.new = Pete
-Dog.new = Rin
-Dog.new = Darth
+Pete = Dog.new
+Rin = Dog.new
+Darth = Dog.new
